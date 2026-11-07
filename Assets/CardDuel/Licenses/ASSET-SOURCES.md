@@ -21,6 +21,8 @@ Both packs explicitly permit personal and commercial use. CC0: https://creativec
 User explicitly selected `audio_df740d01-43a7-44c1-b67e-5c803de92f60.m4a` for this game.
 The original stays unchanged outside this repository. This music is user supplied and is **not** represented as CC0 or open-source music.
 
+On 2026-11-07, the project author confirmed permission to distribute this BGM publicly with this game's repository and release. This does not grant a separate license to extract or reuse the music in other projects.
+
 - Original SHA256: `79605675F1E1B951B272B0604A25505CAC23B7F99FBBE5BF19A4E0AFE1E2CC13`.
 - Original: AAC, stereo, 44.1 kHz, 184.574762 seconds.
 - Game asset: `Resources/Audio/bgm.ogg`, Vorbis quality 4, 0.4-second fade in and final 1.074762-second fade out to soften looping. Unity streams the stereo clip; it loops continuously across restarts and menu pauses.
