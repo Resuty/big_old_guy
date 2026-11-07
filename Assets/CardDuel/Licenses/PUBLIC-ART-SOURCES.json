@@ -1,0 +1,1449 @@
+{
+  "downloaded": "2026-10-22",
+  "packs": [
+    {
+      "name": "BoardGame",
+      "page": "https://kenney.nl/assets/boardgame-pack",
+      "download": "https://kenney.nl/media/pages/assets/boardgame-pack/a1656828d2-1677667644/kenney_boardgame-pack.zip",
+      "bytes": 2221570,
+      "sha256": "3b6a7dd5af658d1ffa0071429d5dde10ff63121e88bd06d4904e721e60b2c398"
+    },
+    {
+      "name": "UI",
+      "page": "https://kenney.nl/assets/ui-pack",
+      "download": "https://kenney.nl/media/pages/assets/ui-pack/f651646eab-1718203990/kenney_ui-pack.zip",
+      "bytes": 1229750,
+      "sha256": "a8a14a234911eb648c062622915c93e79e94e97cb7f9f375a70f6617f1174318"
+    },
+    {
+      "name": "Icons",
+      "page": "https://kenney.nl/assets/game-icons",
+      "download": "https://kenney.nl/media/pages/assets/game-icons/1ebf9c14af-1677661579/kenney_game-icons.zip",
+      "bytes": 1045980,
+      "sha256": "7a86d8d58e0b851e22004b3c70bf90b003632bbf9ac633424daa3bb17d9e7e4e"
+    },
+    {
+      "name": "Hearts",
+      "page": "https://kenney.nl/assets/platformer-art-deluxe",
+      "download": "https://kenney.nl/media/pages/assets/platformer-art-deluxe/cb30f83169-1677696393/kenney_platformer-art-deluxe.zip",
+      "bytes": 6582450,
+      "sha256": "232c5644858287181ff5b20107b1969064a2833dd4ab51a6a4c5997889d2720d"
+    }
+  ],
+  "selected_files": [
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_blue1.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_blue1.png",
+      "sha256": "e618908e55918620691348059eac2f9497a8079703caf7380857e3c3c4a38046",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_blue2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_blue2.png",
+      "sha256": "614da407c01c5a8ddf6ace09bf394ebe533944cfeb0a573df3cd03eccb0cb17d",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_blue3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_blue3.png",
+      "sha256": "a89b8905e2ca25c295c54478de6a8d94b5058b68096fa26e864677f72372d9b2",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_blue4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_blue4.png",
+      "sha256": "ff72b2ba1f20d4ff20a017706e27009523178aaaa1d6a484198d12bc189db3ae",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_blue5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_blue5.png",
+      "sha256": "2e831270e3c882ac38d13d417321372f75c8c232021e84aa1c92a891cc40154c",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_green1.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_green1.png",
+      "sha256": "cc62cc546eb79d51d3e3ea0a8a33239a11aadb1ad98ede39e4ca45083d97d350",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_green2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_green2.png",
+      "sha256": "9523703a1734eb983861cc9c03836b21e8e9a6a63cd7adc825ed0d1feba6bece",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_green3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_green3.png",
+      "sha256": "93c833d0746b5bb0ce83dabbdcf2f6bcc42b52e98d8e58cb6c06810ca8a82cb9",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_green4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_green4.png",
+      "sha256": "6eea9768b9373f29386efbc065bb3f65dda193686e3a88e7ac24118ac7209ed8",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_green5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_green5.png",
+      "sha256": "0c2f912a9f139ad66e987adae3cac7e44e2b4bb764a8efcd6d276a68d66a60ad",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_red1.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_red1.png",
+      "sha256": "882e49de9e656d3dfe6ab058b8aa62945f46f9a42f900da38c9dac837019f5a0",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_red2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_red2.png",
+      "sha256": "518e3fdcaafce3eddd3f9ae2ecafd714724050a5e491283bc66a7a820890859e",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_red3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_red3.png",
+      "sha256": "7af9dfccf317651185c9fd63b5d4a8395ed30bd6e636502410246a8ecc1365d9",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_red4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_red4.png",
+      "sha256": "d40e61dff69c2d590f5d076f134e1dd9b77f8a32a05079e443634473e7b44b4d",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardBack_red5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardBack_red5.png",
+      "sha256": "64381ab179e1aaedbe613574468a22acee11c7fc850df09ed4e9bb7c5280b33d",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs10.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs10.png",
+      "sha256": "8501805650b0900e25da4fee718cc0d2a681e720e1f2df4f5e45782364f58530",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs2.png",
+      "sha256": "8fed805fde66b2074fee5d2f592e0d90bfbf5c7aa32ba1cef18accf85ac5986b",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs3.png",
+      "sha256": "05c20c5cf2b7cbc35ae814616d579bb9813295b87d129ff8623e6a9dc8c5d545",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs4.png",
+      "sha256": "b5397c3b8b890b3a97926a5ea43fc6552bc9ef0e1065da74274480fae2c5fd1e",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs5.png",
+      "sha256": "f6efa9a99f6ad53672ffe9a31ef06290d3e23e9fd4b2794084c2215f569906cf",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs6.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs6.png",
+      "sha256": "79e70991f2121c2ed8d727ff66de3e880dcad1a2bbf2bc489b8a1fdfa8998b46",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs7.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs7.png",
+      "sha256": "9c36a340fa9d6bf0b3ddd277fcef6ce95bdc710c001df8cbe4ff6c37801f5aed",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs8.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs8.png",
+      "sha256": "5f2475c318d4ae8312da45cecf1841c39dd54dbb04bf600c1e6f3de233b8739d",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubs9.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubs9.png",
+      "sha256": "64a65a84d638f1467475f219837e31808a92b7d67a8c86a8b01d62032f4c87e9",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubsA.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubsA.png",
+      "sha256": "3b954a717e7d61c5e7478fbbf9cbb6339496cb9b43a11a2d575d1dacc0b871c7",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubsJ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubsJ.png",
+      "sha256": "c0f2ad5d5fdf22749f3d65014c9e8650689dc529dc8ef97bd0a323a6afa83cd5",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubsK.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubsK.png",
+      "sha256": "4e71586643ef1bee07a7daf924b44d8f3ac81ca29ae1a9bc4523abb5533c069b",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardClubsQ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardClubsQ.png",
+      "sha256": "98f36778080fb35759ab83d28b7fea1c52e6281407acb776544b768a5c5aa2d7",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds10.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds10.png",
+      "sha256": "46c2aa03f45aef8e65ac28f519fe881631522c8b808566c37f4f779c9bfbebbd",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds2.png",
+      "sha256": "daabd160c538ffd8ca1254f4eca470be0f8589d99c434fb749e71bd495b95657",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds3.png",
+      "sha256": "3e8c6abe692db4a16473d728b73a5286400eb4b68d29cdb56ae2be35e94dc3dd",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds4.png",
+      "sha256": "523cabc8e778a432fd0911a96059fa08327c49dc6ebd83014f5c3d81662e3467",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds5.png",
+      "sha256": "3abfab90a66e0cb073a87ac55c73398fc9be5ec91e2e2b4eab13fed0aadd4847",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds6.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds6.png",
+      "sha256": "3d45fda4ebcb5aafe9755bcdf61255b175e3f03aa699e93021e6530129793cd4",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds7.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds7.png",
+      "sha256": "987ec99d97dbc6a90d7d2b65780b968c0cc9966654d9d32780c60a3a21e19cf3",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds8.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds8.png",
+      "sha256": "a5cf20ac2ef9d58c315297634623ec0a398451ca264bfe239587dbc351a4ad42",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamonds9.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamonds9.png",
+      "sha256": "fcfac4e049bb70a25a37b5facf29ad1183c7a1b2b2212a69cdacd195dbc12200",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamondsA.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamondsA.png",
+      "sha256": "9dd721139f8e9b3ac84ba139f12666e25db471391e5a536934b19db544c9ae79",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamondsJ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamondsJ.png",
+      "sha256": "615821a2097d8b3da0236d05dc788299d363fac2d5de7dcd3c241b45c2ec1252",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamondsK.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamondsK.png",
+      "sha256": "dab1ca9b97174faacf3d36cdfbebf80b25d83bb0d8080e37c5b19fa172402341",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardDiamondsQ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardDiamondsQ.png",
+      "sha256": "be829aebfb2b54aec955ec9960cbbd4c9fbba068b45db64cf28ba9d6b91473c9",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts10.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts10.png",
+      "sha256": "c0a976b4a97611c1024eca9d4e0c0b488d94bebc2845e0815eb809fe0735b699",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts2.png",
+      "sha256": "0fc3d0ab88c322eb04390bd4c8d1f1f3970a8e01cbe89bc5d4b0c3a575bb174e",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts3.png",
+      "sha256": "61e66c130ca3fcdb527144103d3de4e5d6cd71604b41210ac6dcf02c0fd22690",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts4.png",
+      "sha256": "9443705baf74c3e932c7ed07232eaabe2799945e7da0c5c89b08de338219040f",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts5.png",
+      "sha256": "2aca4b8b2cffeea7648cf6affa1d42102301da942ddd26c5b83fae000c31d537",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts6.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts6.png",
+      "sha256": "8549cba0b752d42dda2c297c1849ecace0e200b92c2ba6b30c4290af7f21013e",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts7.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts7.png",
+      "sha256": "494b7c5b237530418a6ede2503f817878611d651ca43d1fcd9702502c460ac9e",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts8.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts8.png",
+      "sha256": "f04af85e60214132eaf84f10a75313871838871ccb460733dea4f6084ceb742d",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHearts9.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHearts9.png",
+      "sha256": "c751be2ce58e79017512797cb9ee98d35b3caf3a053ee52559d06b632c920c4a",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHeartsA.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHeartsA.png",
+      "sha256": "11c82ae46760228b8b125205753ab7e773222d8925b670f2b77ea3384bf03f87",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHeartsJ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHeartsJ.png",
+      "sha256": "a6676025eb19facba821f4e89b193f6d3e878873a57ac75983eddea17537e4ba",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHeartsK.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHeartsK.png",
+      "sha256": "790197932a6b180120bf06b65bd54328b5bd58f64b2e6c9f675933d0337fa857",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardHeartsQ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardHeartsQ.png",
+      "sha256": "a69f1c41aab5ab629a7543a0b15fac33c22f8121860c6c37a2f3609dcc73bfe5",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardJoker.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardJoker.png",
+      "sha256": "c0dbb45e18265714ec5f6f224066ac109f57f5f7c6b4e7f30fdfe671fbbd6f13",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades10.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades10.png",
+      "sha256": "8e7ed123e69e5da598f0f54eb762db8066d275431745360857330baee97de97a",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades2.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades2.png",
+      "sha256": "d1b6089f07dc6d9353464b2dcd0cd4b696d15f8396849fe1992a49db1f8af959",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades3.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades3.png",
+      "sha256": "1a54b9d9ebe33c0771e56674fefaeb111ad3fd18171353ff877eddca17c53a7c",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades4.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades4.png",
+      "sha256": "5ce17cad127b9c9d7d537bc3d75903f0063ed43827ceda89c8c831137b5e8408",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades5.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades5.png",
+      "sha256": "27462d88e646db637f59a736494346e63ff9c1575a980c2a0ab8d627021c63e8",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades6.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades6.png",
+      "sha256": "24af911576d429f7d598e08f1ab77d6818117304826e8bf8a4057485f3894071",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades7.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades7.png",
+      "sha256": "3639f2119252ebdba1043324c8131b76a7485ec2084042b927e644d5ddf0a542",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades8.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades8.png",
+      "sha256": "f18f0f5de2084e780a7343f8b25558ad5e39cf55014c90dd52c80b1940418344",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpades9.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpades9.png",
+      "sha256": "c0c439ca664836dc91da2d8830952cd26f534e4f0415fc65d64ad55ca0390a37",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpadesA.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpadesA.png",
+      "sha256": "8a4946fa6b78a2403fc4ec9412c0848c234f8ac80b54d3a49cd75000917d99e1",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpadesJ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpadesJ.png",
+      "sha256": "9d91c450706542de71de8b206ac088671643311bb84ca999624c09ec5fc3f341",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpadesK.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpadesK.png",
+      "sha256": "3577e3d5756c802112c51dee4e1639f30ec8284158b9a06b6249e3d7d84f947c",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Cards/cardSpadesQ.png",
+      "pack": "BoardGame",
+      "original": "PNG/Cards/cardSpadesQ.png",
+      "sha256": "9d279affd46bd34ef8c8ba3d8c1a4eebdbc5450753d8170dbfc1db6a5af97c0e",
+      "size": [
+        140,
+        190
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_rectangle_flat.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_rectangle_flat.png",
+      "sha256": "a1eff64c4b5dd37d56caf3d5f55474d5ce6475576731f9dc2418ccea9307ff3a",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_rectangle_border.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_rectangle_border.png",
+      "sha256": "d9a2a7d00e35072bbd6a1a5db3f50d251e216d26e8031e8e27e027e277c10c7b",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_rectangle_line.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_rectangle_line.png",
+      "sha256": "c63785398f523728731880e564902b429bdf9a3c2ee30949bf57d3008431c6aa",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_rectangle_depth_flat.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_rectangle_depth_flat.png",
+      "sha256": "f0f3d52f110768bf93a10b44f4ec3c727924c25734ce85e1275464c9b02cfe18",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_round_flat.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_round_flat.png",
+      "sha256": "361701ef96fcd30f57000a3d05117a8eec15bd84c02cde53edea576144bd0b30",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_round_border.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_round_border.png",
+      "sha256": "371aa7ccaaa204e02e45bdcc065669ac7d6d59a066fcef37a2cb671fa986a806",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_round_line.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_round_line.png",
+      "sha256": "fcdb850a428bb4ebe65531c8a706b9f8301e1f9394ba9d04c273f9916cdc9b45",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_square_flat.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_square_flat.png",
+      "sha256": "06e305e9f0f677e4956df2a82ccd1bd9b42a3a336eb00bafecd9751e83021f93",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/button_square_border.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/button_square_border.png",
+      "sha256": "b387f9fc2f91faa6885a644c076ac6e4036c4149030e8f46fc9145a9a9b37455",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/slide_hangle.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/slide_hangle.png",
+      "sha256": "1d17234da9c54fada0338509c61402f74ce100c4a9de7204c0e1087ed20e7d3c",
+      "size": [
+        48,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/slide_horizontal_grey.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/slide_horizontal_grey.png",
+      "sha256": "1767133c7c59221ea6be5586464a7fb68dee748fc00f28e6f5e28c428524ba2b",
+      "size": [
+        192,
+        32
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/slide_horizontal_color.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/slide_horizontal_color.png",
+      "sha256": "118a59aa6db73783b50bbf93935fca9a6755cb464b1c71f4acbd6e791639a3b8",
+      "size": [
+        192,
+        32
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/check_square_grey.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/check_square_grey.png",
+      "sha256": "120583be2f663a0cb862b93ed462bb817e320368c4f6d7339aa086811687d436",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/check_square_color_checkmark.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/check_square_color_checkmark.png",
+      "sha256": "3f3c8ca9bba2ad11980c90b2a3c336038d783a293ef354a43fd1ad1991a32524",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/check_square_grey_cross.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/check_square_grey_cross.png",
+      "sha256": "5dd5c4e9a81e54fddf679d4fd600b133d0fc8f2a9a68aa438fa86cda71001171",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/icon_checkmark.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/icon_checkmark.png",
+      "sha256": "d4f9f407a687538290fb5f67fe397fb77844b97358f7831b04f30098c23a6eb1",
+      "size": [
+        40,
+        36
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/icon_cross.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/icon_cross.png",
+      "sha256": "74b5c4cdaddb67334049732d011b83df46bbb2b5a83345ff65dd02696ec00765",
+      "size": [
+        36,
+        36
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/icon_circle.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/icon_circle.png",
+      "sha256": "76a068b24ef4181cefa38f12d65f158893fdfb6911cf6494fa2a701ef64e9c34",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/icon_outline_circle.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/icon_outline_circle.png",
+      "sha256": "506427e6fedac8a1362538ca7afa81e12a5c6b5d7741f37f29ade287904e4ed1",
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/arrow_basic_n.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/arrow_basic_n.png",
+      "sha256": "4b55705dd5b6d77aaae5256b44d79325416025d4e24c5ea6bbaf1f45a356ce35",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/arrow_basic_s.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/arrow_basic_s.png",
+      "sha256": "755c7553b9680df68ab17cb782e20ea931aa6a606277706ab07460abe8905025",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/arrow_basic_e.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/arrow_basic_e.png",
+      "sha256": "d52bd0d516e3ae1aab5d3c06bc7850601fd8721912d169212975a7dd47f9907a",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Grey/arrow_basic_w.png",
+      "pack": "UI",
+      "original": "PNG/Grey/Double/arrow_basic_w.png",
+      "sha256": "4b2294f347d5e6b7b545a94dafae20bf2ec7ce7939255685056b79603fa7e14d",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Green/button_rectangle_flat.png",
+      "pack": "UI",
+      "original": "PNG/Green/Double/button_rectangle_flat.png",
+      "sha256": "e6a1b5fed8c7b200c86f88231d7745afd2152c55778c2b9b0a2010b9868e7e08",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Green/button_rectangle_border.png",
+      "pack": "UI",
+      "original": "PNG/Green/Double/button_rectangle_border.png",
+      "sha256": "384ead4a32b53e1bbf6d7fe9552b285a2a7c4d27a68765394ffeeecfa470b21e",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Green/button_rectangle_depth_flat.png",
+      "pack": "UI",
+      "original": "PNG/Green/Double/button_rectangle_depth_flat.png",
+      "sha256": "01b8240b2cbf3af3bcabb8a7daf458a111bc4f139f8d415d255a334f50754c20",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Green/button_round_flat.png",
+      "pack": "UI",
+      "original": "PNG/Green/Double/button_round_flat.png",
+      "sha256": "c02e80fbf68c3a39619778e622c1b68e760bf47fef93b7ef6828d8ce28f31242",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Blue/button_rectangle_flat.png",
+      "pack": "UI",
+      "original": "PNG/Blue/Double/button_rectangle_flat.png",
+      "sha256": "dd41d38a51be834a881f883f7b333223b25d59d5de4fdf8607d5c6362000b499",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Blue/button_rectangle_border.png",
+      "pack": "UI",
+      "original": "PNG/Blue/Double/button_rectangle_border.png",
+      "sha256": "d4eb550b29777737cafc0ac018dda6631c731baf83e215fbc16993003360fbb3",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Blue/button_rectangle_depth_flat.png",
+      "pack": "UI",
+      "original": "PNG/Blue/Double/button_rectangle_depth_flat.png",
+      "sha256": "91fbaa6c2568e832fc2f72c574535d55673e8a2a7f5df9da260ca449c5c228f2",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Blue/button_round_flat.png",
+      "pack": "UI",
+      "original": "PNG/Blue/Double/button_round_flat.png",
+      "sha256": "96f17fbbf0e78b2154c7e09f34b5f609c90b07ad9c9eb088c28886995b02e466",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Yellow/button_rectangle_flat.png",
+      "pack": "UI",
+      "original": "PNG/Yellow/Double/button_rectangle_flat.png",
+      "sha256": "4d9c76725030e09c6f60a6be696f9d775d07652fbe21da5c2999115babd81723",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Yellow/button_rectangle_border.png",
+      "pack": "UI",
+      "original": "PNG/Yellow/Double/button_rectangle_border.png",
+      "sha256": "e50c74bb7ddb597328277d6a13746f3544e87d287215133aad47bb4f9a3e01be",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Yellow/button_rectangle_depth_flat.png",
+      "pack": "UI",
+      "original": "PNG/Yellow/Double/button_rectangle_depth_flat.png",
+      "sha256": "0c43a01a95270167be8c05a68c45a2709e60177d9dfa59bedb56fd0802659e52",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Yellow/button_round_flat.png",
+      "pack": "UI",
+      "original": "PNG/Yellow/Double/button_round_flat.png",
+      "sha256": "ec1e641c36c7f02d0dc51b772dfa07820d21b8c45e8b6e63ca7df236cca648b2",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Red/button_rectangle_flat.png",
+      "pack": "UI",
+      "original": "PNG/Red/Double/button_rectangle_flat.png",
+      "sha256": "48cb2f3c836e8b97a80d44a2b801f2f0b8578cf4e746a5016a488aca1fda3cfe",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Red/button_rectangle_border.png",
+      "pack": "UI",
+      "original": "PNG/Red/Double/button_rectangle_border.png",
+      "sha256": "efd9aefa2c5d49d272dea17dbbb9b295a0c63e3c72200d64e04859873f025291",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Red/button_rectangle_depth_flat.png",
+      "pack": "UI",
+      "original": "PNG/Red/Double/button_rectangle_depth_flat.png",
+      "sha256": "9a81bc718ef329250481de16e74438132f529942888b95d4ee7272b0001eb47d",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Red/button_round_flat.png",
+      "pack": "UI",
+      "original": "PNG/Red/Double/button_round_flat.png",
+      "sha256": "2376425d09f46082425d2563775b67a24b2b3b0462fcc3dfabe3f3d3fdf8ac59",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Extra/input_rectangle.png",
+      "pack": "UI",
+      "original": "PNG/Extra/Double/input_rectangle.png",
+      "sha256": "892012143bdd24e6039835f7be7cc8fcb73a2364dcf711dced3fc1bfe124f38c",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Extra/input_outline_rectangle.png",
+      "pack": "UI",
+      "original": "PNG/Extra/Double/input_outline_rectangle.png",
+      "sha256": "6c08e2b795421d257428bc57def4532c61bb3fd5de8f17e87ae037aa106de32a",
+      "size": [
+        384,
+        128
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Extra/divider.png",
+      "pack": "UI",
+      "original": "PNG/Extra/Double/divider.png",
+      "sha256": "71c409119e5e32ba793324b061a3952a820956c3f6d24f088997331caf4375a8",
+      "size": [
+        128,
+        8
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Extra/icon_repeat_dark.png",
+      "pack": "UI",
+      "original": "PNG/Extra/Double/icon_repeat_dark.png",
+      "sha256": "1b67e64d38984a36c94f5672c6a56a61b7cb974767dd132af2d100184b8cc30a",
+      "size": [
+        82,
+        72
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/UI/Extra/icon_repeat_light.png",
+      "pack": "UI",
+      "original": "PNG/Extra/Double/icon_repeat_light.png",
+      "sha256": "be08921888d54804b6f5bbf99e8e7a230f01895c33a39956a073301cdb45fa83",
+      "size": [
+        82,
+        72
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/gear.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/gear.png",
+      "sha256": "50b313ffe97db1733e529d5b0f5ac91eed5c0c8ffee1034bbb7766508e4f720c",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/question.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/question.png",
+      "sha256": "752c59d82a33e9bc4c3414ab43833e913b3a9f9966af663a70c42aff56f3735c",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/cross.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/cross.png",
+      "sha256": "8293e3758e7df2eb1c5bb8d6979cccc826e66c28f8c703e6cbb0a54a3c0efc33",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/checkmark.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/checkmark.png",
+      "sha256": "00e3025322ddb4948598b7fb8d385762073de7b2b534d2cfd44372072608a92a",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/exit.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/exit.png",
+      "sha256": "a59692fdb84e8c4f92d5da919cf8b7396a8bc8979007a19f9b2e6b63dc007f52",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/audioOn.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/audioOn.png",
+      "sha256": "aee49ff7b9151214178079eb860a341958ba54627c93d0b2636b05670a37a585",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/audioOff.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/audioOff.png",
+      "sha256": "c82e3784acee369264aa9e6cfc91973729982db5a2154d6ecddfd1927414d676",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/musicOn.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/musicOn.png",
+      "sha256": "9998567109c4ad007ad796091b4f1d7774779f6f96c8b4b615f215f7d74c5230",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/musicOff.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/musicOff.png",
+      "sha256": "ee0901ab81572df6dd47400b5694c0c41d8ccb1c3bf24485b4414dfb4c1172ea",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/plus.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/plus.png",
+      "sha256": "dc5d564ffe3ae546f2e72ce19ea8349124cf48256418de50bb045a5d97ab9872",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/minus.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/minus.png",
+      "sha256": "5f4e70adea9061d0105db1860108b669e348d0d99314542a77dd96f707800ec7",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/return.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/return.png",
+      "sha256": "99b425ec6d8e49633ddcea55e7485adf44a4ca8614abf39e59b7a83602ee3866",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/rewind.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/rewind.png",
+      "sha256": "c8270bda4e85a3e478880f4974df353fa61e2b87150b5f1a3d9e91935b623557",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/export.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/export.png",
+      "sha256": "1007229740b373c9478a62bffec84e5a252454a970422f8d395c96ed07a22e81",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/zoom.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/zoom.png",
+      "sha256": "9d78f65572bc7b172354e3695019cdf7b0350e1f07337c04c620165479da6b50",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/trashcan.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/trashcan.png",
+      "sha256": "a66c81acb0e37481f187b444beb24307826638d35934169a4cb3229fb0d5beca",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/arrowDown.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/arrowDown.png",
+      "sha256": "187df6603922dbde3db15f0f28033e2f7e74435a017095d56cf617bf4eee6c59",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/arrowUp.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/arrowUp.png",
+      "sha256": "7a6ef6093124f3bea577062fda23533e136d58a5a5b31d3d3841707f1082e677",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/left.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/left.png",
+      "sha256": "ddbc115de5636e3ee22809427dc7a9eef5a15ac26c25489f5dd92f4552ffbc91",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/right.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/right.png",
+      "sha256": "4a03b4912262ef74a04dac87a59db2ed9dc8c1c9c527439e490630ca899cf252",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/scrollVertical.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/scrollVertical.png",
+      "sha256": "227d5e4f68ba146225c0e0102bd3b6273716805f315203f3e2a420cd36c75317",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/pause.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/pause.png",
+      "sha256": "5c940ad60dd46b3252d4f991f24e9c21865722fe401947830228629baed28774",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/next.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/next.png",
+      "sha256": "d78a2548f8a2360f4496ed499ca280fa377f1e486510c6957b9703e597f550e6",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Icons/information.png",
+      "pack": "Icons",
+      "original": "PNG/White/2x/information.png",
+      "sha256": "dc6909b9d262528156a8afd6247696d0ea39ff533a722ca8d3432c5957544e05",
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Hearts/hud_heartFull.png",
+      "pack": "Hearts",
+      "original": "Base pack/HUD/hud_heartFull.png",
+      "sha256": "8630d31ec5b86748616b200dc683d059dc50bf8300a783d842c481ba693c96ba",
+      "size": [
+        53,
+        45
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Hearts/hud_heartHalf.png",
+      "pack": "Hearts",
+      "original": "Base pack/HUD/hud_heartHalf.png",
+      "sha256": "e665023d560b19fb4f82bac84a58b75a6d6b73b86c85adf62c81b1d67d93639f",
+      "size": [
+        53,
+        45
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Art/Hearts/hud_heartEmpty.png",
+      "pack": "Hearts",
+      "original": "Base pack/HUD/hud_heartEmpty.png",
+      "sha256": "aa54189f47a94fde225a9291547bfc5e9db5a077b81eff4a5627db370e805d9e",
+      "size": [
+        53,
+        45
+      ]
+    },
+    {
+      "asset": "Assets/CardDuel/Licenses/Kenney-BoardGame.txt",
+      "pack": "BoardGame",
+      "original": "license.txt",
+      "sha256": "1b8accb01e28c856ae16b16e03a47fbdd9272aaf8b9e6b95127186073264c65b"
+    },
+    {
+      "asset": "Assets/CardDuel/Licenses/Kenney-UI.txt",
+      "pack": "UI",
+      "original": "License.txt",
+      "sha256": "69f7eaa5e05913b4d09cf5848f75390b5c3c9a409ef8555777803d9ca0c171fb"
+    },
+    {
+      "asset": "Assets/CardDuel/Licenses/Kenney-Icons.txt",
+      "pack": "Icons",
+      "original": "license.txt",
+      "sha256": "68a86b3a620be3366d6dc28a4a8ffb8d5de12e0b86b5199c86e51fc617e29a49"
+    },
+    {
+      "asset": "Assets/CardDuel/Licenses/Kenney-Hearts.txt",
+      "pack": "Hearts",
+      "original": "license.txt",
+      "sha256": "7b92e3d9cadb7ff65203935da94584488847097321a3b41e869ea067d3cb8198"
+    }
+  ]
+}

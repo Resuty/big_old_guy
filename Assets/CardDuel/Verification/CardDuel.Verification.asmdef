@@ -1,0 +1,1 @@
+{"name":"CardDuel.Verification","rootNamespace":"CardDuel","references":["CardDuel.Core"],"includePlatforms":["Editor"],"autoReferenced":true,"noEngineReferences":true}

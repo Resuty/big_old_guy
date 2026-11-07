@@ -1,0 +1,1 @@
+{"name":"CardDuel.EditModeTests","rootNamespace":"CardDuel","references":["CardDuel.Core","CardDuel.Verification"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"],"autoReferenced":false}
