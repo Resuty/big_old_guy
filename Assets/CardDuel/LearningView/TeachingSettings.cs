@@ -116,15 +116,7 @@ namespace CardDuel.Learning
 
         private void InitializeSettingsAudio()
         {
-            try
-            {
-                settings = JsonUtility.FromJson<UserSettings>(
-                    PlayerPrefs.GetString(SettingsKey, "")) ?? new UserSettings();
-            }
-            catch (ArgumentException)
-            {
-                settings = new UserSettings();
-            }
+            settings = LoadSettings(SettingsKey);
             settings.Sanitize();
             difficulty = (Difficulty)settings.Difficulty;
             fast = settings.Fast;

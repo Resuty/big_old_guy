@@ -12,7 +12,7 @@ Unity の学習とポートフォリオとして制作しています。なじ�
 
 ## 遊び方
 
-[Releases](https://github.com/Resuty/big_old_guy/releases) から `BigOldGuy-v0.1.0-Windows-x64.zip` をダウンロードし、解凍して `BigOldGuy.exe` を起動してください。同じフォルダー内の Data フォルダーと DLL も必要です。Unity のインストールは不要です。
+Windows 用 EXE をダブルクリックすると、初回は同じ場所にファイルを展開して起動します。ZIP 版を使用する場合は、すべて展開して `BigOldGuy.exe` を起動してください。Unity のインストールは不要です。[EXE をダウンロード](https://github.com/Resuty/big_old_guy/releases/download/v0.1.1/BigOldGuy-v0.1.1-Windows-x64.exe) · [リリースと ZIP](https://github.com/Resuty/big_old_guy/releases/tag/v0.1.1)
 
 対応プラットフォームは Windows 64 bit です。設定画面から日本語・中国語・英語を切り替えられます。BGMと効果音の音量、AIの強さと行動速度も変更できます。
 
@@ -62,7 +62,7 @@ cd big_old_guy
 git lfs pull
 ```
 
-Unity Hub にプロジェクトを追加し、`Assets/Scenes/Game.unity` を開いて実行してください。`Card Duel → Build Windows Release` から、ルール検証と5つの固定初期状態による自動対戦を実行した後、Windows 版をビルドできます。出力先は `Builds/v0.1.0` です。[技術解説書（中国語）](Docs/CardDuel完整对局技术讲解手册.pdf) に処理の流れを記載しています。
+Unity Hub にプロジェクトを追加し、`Assets/Scenes/Game.unity` を開いて実行してください。`Card Duel → Build Windows Release` から、ルール検証と5つの固定初期状態による自動対戦を実行した後、Windows 版をビルドできます。出力先は `Builds/v0.1.1` です。[技術解説書（中国語）](Docs/CardDuel完整对局技术讲解手册.pdf) に処理の流れを記載しています。
 
 ## 制作過程と制限
 

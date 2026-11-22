@@ -11,7 +11,7 @@ namespace CardDuel.Editor
         [MenuItem("Card Duel/Build Windows Release")]
         public static void Windows()
         {
-            const string root = "Builds/v0.1.0";
+            string root = "Builds/v" + PlayerSettings.bundleVersion;
             Directory.CreateDirectory(root);
             var checks = RuleChecks.Run().ToList();
             foreach (int seed in new[] { 20261022, 20261023, 20261024, 20261025, 20261026 })
@@ -23,7 +23,6 @@ namespace CardDuel.Editor
                 checks.Add("Completed simulation: " + seed);
             }
             File.WriteAllLines(root + "/verification.txt", checks);
-            PlayerSettings.bundleVersion = "0.1.0";
             var report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
             {
                 scenes = new[] { "Assets/Scenes/Game.unity" },

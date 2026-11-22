@@ -10,7 +10,7 @@
 
 ## 试玩
 
-在 [Releases](https://github.com/Resuty/big_old_guy/releases) 下载 `BigOldGuy-v0.1.0-Windows-x64.zip`，解压后运行 `BigOldGuy.exe`。请保留同目录下的 Data 文件夹和 DLL。无需安装 Unity。
+双击下载的 Windows EXE 即可启动，首次运行会在旁边解包。也可下载 ZIP，完整解压后运行 `BigOldGuy.exe`。无需安装 Unity。[下载 EXE](https://github.com/Resuty/big_old_guy/releases/download/v0.1.1/BigOldGuy-v0.1.1-Windows-x64.exe) · [Release 与 ZIP](https://github.com/Resuty/big_old_guy/releases/tag/v0.1.1)
 
 发布平台为 Windows 64 位。设置中可切换中文、日语、英语，分别调整音乐和音效音量，也可调整 AI 难度和行动速度。
 
@@ -60,7 +60,7 @@ cd big_old_guy
 git lfs pull
 ```
 
-在 Unity Hub 添加项目目录，打开 `Assets/Scenes/Game.unity` 后运行。`Card Duel → Build Windows Release` 会先运行规则检查和 5 个固定开局的自动对局，再构建 Windows 版；输出位于 `Builds/v0.1.0`。详细调用链见 [中文技术手册](Docs/CardDuel完整对局技术讲解手册.pdf)。
+在 Unity Hub 添加项目目录，打开 `Assets/Scenes/Game.unity` 后运行。`Card Duel → Build Windows Release` 会先运行规则检查和 5 个固定开局的自动对局，再构建 Windows 版；输出位于 `Builds/v0.1.1`。详细调用链见 [中文技术手册](Docs/CardDuel完整对局技术讲解手册.pdf)。
 
 ## 开发方式与当前限制
 
